@@ -1,9 +1,15 @@
-﻿namespace C_Basics
+﻿using static System.Runtime.InteropServices.JavaScript.JSType;
+using System.Dynamic;
+
+namespace C_Basics
 {
     internal class Program
     {
         static void Main(string[] args)
         {
+            Task1.FirstExercise(); //calling function Task1Exercise() fron Task1.cs
+            Task1.SecondExercise(); //calling function Task2Exercise() fron Task1.cs
+
             Operators.GetOperatorsExercise();
         }
     }
