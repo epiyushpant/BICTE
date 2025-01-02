@@ -1,11 +1,13 @@
-﻿namespace C_Basics
+namespace C_Basics
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            //Operators.GetOperatorsExercise();
-            Task1.Task1Exercise(); //calling finction inside Task1.cs
+            Task1.FirstExercise(); //calling function Task1Exercise() fron Task1.cs
+            Task1.SecondExercise(); //calling function Task2Exercise() fron Task1.cs
+
+            Operators.GetOperatorsExercise();
         }
     }
 }
