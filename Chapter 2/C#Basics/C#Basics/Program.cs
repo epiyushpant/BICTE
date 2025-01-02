@@ -1,7 +1,4 @@
-﻿using static System.Runtime.InteropServices.JavaScript.JSType;
-using System.Dynamic;
-
-namespace C_Basics
+﻿namespace C_Basics
 {
     internal class Program
     {
