@@ -1,0 +1,14 @@
+C:\Users\ASUS\source\repos\C#_Assignment\C#_Assignment\obj\Debug\net8.0\C#_Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\C#_Assignment\C#_Assignment\obj\Debug\net8.0\C#_Assignment.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\C#_Assignment\C#_Assignment\obj\Debug\net8.0\C#_Assignment.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\C#_Assignment\C#_Assignment\obj\Debug\net8.0\C#_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\C#_Assignment\C#_Assignment\bin\Debug\net8.0\C#_Assignment.exe
+C:\Users\ASUS\source\repos\C#_Assignment\C#_Assignment\bin\Debug\net8.0\C#_Assignment.deps.json
+C:\Users\ASUS\source\repos\C#_Assignment\C#_Assignment\bin\Debug\net8.0\C#_Assignment.runtimeconfig.json
+C:\Users\ASUS\source\repos\C#_Assignment\C#_Assignment\bin\Debug\net8.0\C#_Assignment.dll
+C:\Users\ASUS\source\repos\C#_Assignment\C#_Assignment\bin\Debug\net8.0\C#_Assignment.pdb
+C:\Users\ASUS\source\repos\C#_Assignment\C#_Assignment\obj\Debug\net8.0\C#_Assignment.dll
+C:\Users\ASUS\source\repos\C#_Assignment\C#_Assignment\obj\Debug\net8.0\refint\C#_Assignment.dll
+C:\Users\ASUS\source\repos\C#_Assignment\C#_Assignment\obj\Debug\net8.0\C#_Assignment.pdb
+C:\Users\ASUS\source\repos\C#_Assignment\C#_Assignment\obj\Debug\net8.0\C#_Assignment.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\C#_Assignment\C#_Assignment\obj\Debug\net8.0\ref\C#_Assignment.dll
