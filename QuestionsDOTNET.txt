@@ -1,0 +1,15 @@
+1.  Differentiate between .NET Framework and .NET Core 
+2.  What is .NET ? Explain features of .NET 
+3.  Explain the compilation and execution flow of .NET application with clean diagram 
+4.  What are the project types in .NET ?
+5.  What is C# ? Explain the features of C# . 
+6.  Differentiate between value types and reference types in c# with example . 
+7.  Differentiate between for and foreach loop in c# with use cases. 
+8.  Describe class and object with example . 
+9.  Describe constructor and destructor with use case . 
+10. What is OOP ? Describe are the pillars of OOP. 
+11. Describe inheritance with code . 
+11. Differentiate between method overloading and method overriding with code example 
+12. Differentiate between abstract class and interface with use case. 
+13. Describe how would you implement abstraction with example . 
+14. Describe encapsulation with code example. What problem does encapsulation solves ? 

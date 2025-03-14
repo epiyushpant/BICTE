@@ -1,0 +1,8 @@
+Write a C# program that takes a string input from the user and prints the reversed string.
+Write a C# program that asks the user for a number and checks whether it is a prime number or not.
+Write a C# program that prints the first n numbers of the Fibonacci series using recursion.
+Write a C# program that takes an array of integers and finds the second largest number in the array.
+Write a C# program that takes a string as input and counts the number of vowels (a, e, i, o, u) in it.
+Write a C# program that checks whether a given number is an Armstrong number (e.g., 153 = 1³ + 5³ + 3³).
+Write a C# program to check if a given string is a palindrome.
+Write a C# program that finds the missing number in an array of integers from 1 to N.
