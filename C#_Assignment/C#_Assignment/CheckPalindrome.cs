@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace CombinedProject
 {
@@ -8,9 +8,21 @@ namespace CombinedProject
         {
             Console.Write("Enter a string: ");
             string input = Console.ReadLine();
-            string reversed = new string(input.Reverse().ToArray());
 
-            if (input.Equals(reversed, StringComparison.OrdinalIgnoreCase))
+            input = input.ToLower();
+
+            bool isPalindrome = true;
+
+            for (int i = 0; i < input.Length / 2; i++)
+            {
+                if (input[i] != input[input.Length - 1 - i])
+                {
+                    isPalindrome = false;
+                    break; 
+                }
+            }
+
+            if (isPalindrome)
             {
                 Console.WriteLine($"{input} is a palindrome.");
             }
